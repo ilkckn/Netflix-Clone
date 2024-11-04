@@ -116,9 +116,13 @@
   .login {
     padding: 250px 5%;
 
+    .loginLogo {
+      width: 320px;
+    }
+
     .loginForm {
-      width: 75%;
-      padding: 100px 30px;
+      width: 85%;
+      padding: 130px 40px;
       margin: auto;
       
       h1 {
@@ -201,6 +205,10 @@
   .login {
     padding: 150px 5%;
 
+    .loginLogo {
+      width: 250px;
+    }
+
     .loginForm {
       width: 90%;
       padding: 30px;
@@ -221,6 +229,10 @@
 @media (max-width: 414px) {
   .login {
     padding: 140px 5%;
+
+    .loginLogo {
+      width: 200px;
+    }
 
     .loginForm {
       width: 90%;
@@ -243,6 +255,10 @@
   .login {
     padding: 130px 5%;
 
+    .loginLogo {
+      width: 200px;
+    }
+
     .loginForm {
       width: 90%;
       padding: 30px;
@@ -263,6 +279,10 @@
 @media (max-width: 375px) {
   .login {
     padding: 65px 5%;
+
+    .loginLogo {
+      width: 150px;
+    }
 
     .loginForm {
       width: 90%;
